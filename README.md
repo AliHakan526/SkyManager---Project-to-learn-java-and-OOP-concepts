@@ -49,7 +49,7 @@ The project follows a standard structure:
 
 This project is for educational purposes.
 
-##Acknowledgments
+## Acknowledgments
 
 - Project Lead & Core Development: Ali Hakan (90% of implementation, architecture, and OOP design).
 
