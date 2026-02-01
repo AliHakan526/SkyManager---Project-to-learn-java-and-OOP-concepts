@@ -48,3 +48,11 @@ The project follows a standard structure:
 ## License
 
 This project is for educational purposes.
+
+##Acknowledgments
+
+- Project Lead & Core Development: Ali Hakan (90% of implementation, architecture, and OOP design).
+
+- QA & Debugging: Osman Selim Ilıca (Final debugging, unit testing, and code optimization).
+
+
